@@ -1,7 +1,7 @@
 # Microservices-with-Node.js-Email-example
 Sending Email Microservices with Node.js
 
-This is a example of Node.js's Microservices, the feature is `send email`;
+This is a example of Node.js's Microservices, the feature is `sending email`;
 
 How to use it
 ============
@@ -37,7 +37,7 @@ var EmailService = Seneca().client({
 
 ```
 
-[seneca](https://github.com/senecajs/seneca) A Node.js toolkit for Microservice architectures
-[emailjs](https://github.com/eleith/emailjs) send emails, html and attachments (files, streams and strings) from node.js to any smtp server
+- [seneca](https://github.com/senecajs/seneca) A Node.js toolkit for Microservice architectures
+- [emailjs](https://github.com/eleith/emailjs) send emails, html and attachments (files, streams and strings) from node.js to any smtp server
 
-My English is poor; so, this document might have a syntax error.
+My English is poor; so, this document might have some syntax error.
