@@ -36,5 +36,5 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: gopi123321/test:latest
+        tags: gopi123321/test:1.1
     
