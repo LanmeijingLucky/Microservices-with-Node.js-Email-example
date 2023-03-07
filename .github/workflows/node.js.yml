@@ -28,5 +28,5 @@ jobs:
         cache: 'npm'
     - run: npm install
     - name: docker build
-      run: docker run -t test:1.0 .
+      run: docker build -t test:1.0 .
     
